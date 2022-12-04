@@ -1,2 +1,3 @@
-# QPKIInstaller
-供內部使用的根憑證與 CA 憑證安裝工具
+根憑證與 CA 憑證信任鏈  
+於內部加密傳輸使用  
+![image](https://i.imgur.com/RBq2Ynk.png)

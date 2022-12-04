@@ -1,0 +1,10 @@
+D:\User Data\repos\QPKIInstaller\QPKIInstaller\bin\Release\QPKIInstaller.exe.config
+D:\User Data\repos\QPKIInstaller\QPKIInstaller\bin\Release\QPKIInstaller.exe
+D:\User Data\repos\QPKIInstaller\QPKIInstaller\bin\Release\QPKIInstaller.pdb
+D:\User Data\repos\QPKIInstaller\QPKIInstaller\obj\Release\QPKIInstaller.csproj.AssemblyReference.cache
+D:\User Data\repos\QPKIInstaller\QPKIInstaller\obj\Release\QPKIInstaller.csproj.SuggestedBindingRedirects.cache
+D:\User Data\repos\QPKIInstaller\QPKIInstaller\obj\Release\QPKIInstaller.Properties.Resources.resources
+D:\User Data\repos\QPKIInstaller\QPKIInstaller\obj\Release\QPKIInstaller.csproj.GenerateResource.cache
+D:\User Data\repos\QPKIInstaller\QPKIInstaller\obj\Release\QPKIInstaller.csproj.CoreCompileInputs.cache
+D:\User Data\repos\QPKIInstaller\QPKIInstaller\obj\Release\QPKIInstaller.exe
+D:\User Data\repos\QPKIInstaller\QPKIInstaller\obj\Release\QPKIInstaller.pdb
